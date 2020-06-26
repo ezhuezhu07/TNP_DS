@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TNP_DS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Type"> Type:</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_review">Home</string>
+    <string name="menu_about">Gallery</string>
+    <string name="menu_rating">Slideshow</string>
+    <string name="review">Review</string>
+    <string name="about">About</string>
+    <string name="rating">Rating</string>
+</resources>
